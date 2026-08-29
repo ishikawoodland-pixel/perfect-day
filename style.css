@@ -1,0 +1,9 @@
+body{
+    background-color: rgba(199, 134, 230, 0.9);
+}
+
+header{
+    display: flex;
+    gap: 30pixel;
+    align-items: center;
+}
